@@ -11,17 +11,20 @@ No trabalho dessa semana vamos evoluir o projeto para que a home-page funcione b
 ## Informações Gerais
 
 - Nome: Rodrigo Dos Santos Libanio
-- Matricula: 1110705
+- Matricula: 924178
 - Proposta de projeto escolhida: Site de musica
 - Breve descrição sobre seu projeto:  Um site para procurar álbuns de músicas que você gosta e ver as faixas dos mesmos.
 
 ## Print da versão responsiva com CSS puro [DESKTOP]
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Versão Desktop](images/desktop.png)
 
 ## Print da versão responsiva com CSS puro [MOBILE] (*)
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Versão Mobile](images/mobile1.png)
+![Versão Mobile](images/mobile2.png)
+![Versão Mobile](images/mobile3.png)
+![Versão Mobile](images/mobile4.png)
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
